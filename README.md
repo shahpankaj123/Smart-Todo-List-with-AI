@@ -46,6 +46,8 @@ An intelligent full-stack task management system that uses **LangChain** + **Gem
 | ✍️ AI Task Creation | ![Task Creation](https://github.com/shahpankaj123/Smart-Todo-List-with-AI/blob/main/media/Screenshot%202025-07-05%20at%2007.24.34.png) |
 | 📚 Category Input | ![Context Input](https://github.com/shahpankaj123/Smart-Todo-List-with-AI/blob/main/media/Screenshot%202025-07-05%20at%2007.24.41.png) |
 | 📋 AI Suggestions | ![AI Suggestions](https://github.com/shahpankaj123/Smart-Todo-List-with-AI/blob/main/media/Screenshot%202025-07-05%20at%2007.32.42.png) |
+|  Edit Task | ![Context Input](https://github.com/shahpankaj123/Smart-Todo-List-with-AI/blob/main/media/Screenshot%202025-07-05%20at%2007.33.37.png) |
+|  Complete Task | ![Context Input](https://github.com/shahpankaj123/Smart-Todo-List-with-AI/blob/main/media/Screenshot%202025-07-05%20at%2007.33.56.png) |
 
 ## 🧠 How AI Works
 
@@ -184,25 +186,7 @@ Key Endpoints:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Key Markdown Features Used:
 
-1. **Headers**: `#`, `##`, `###` for section hierarchy
-2. **Lists**: Both bullet (`-`) and numbered lists
-3. **Tables**: For feature comparison and screenshots
-4. **Code Blocks**: Triple backticks for bash commands and SQL
-5. **Mermaid Diagram**: For AI workflow visualization
-6. **Badges**: For API documentation link
-7. **Emojis**: For visual appeal and quick scanning
-8. **Links**: Both inline and badge-style
-9. **Inline Code**: Single backticks for technical terms
-10. **Bold/Italic**: For emphasis
-
-To use this markdown:
-1. Save as `README.md` in your project root
-2. Replace placeholder URLs with your actual images/links
-3. Update the GitHub username and repository details
-4. Add your actual Postman documentation link
-5. Customize any sections as needed for your specific implementation
 
 
 
